@@ -1,0 +1,6 @@
+Sample_ID,Temperature_C,Salinity_ppt,Species,Count,Length_cm
+S001,18.5,35.2,Cod,12,45
+S002,19.2,34.8,Haddock,8,38
+S003,17.8,35.6,Plaice,15,32
+S004,18.9,35.1,Cod,10,48
+S005,19.5,34.9,Herring,24,28

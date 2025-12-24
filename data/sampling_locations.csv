@@ -1,0 +1,6 @@
+Station_ID,Latitude,Longitude,Depth_m,Substrate_Type
+ST001,42.3601,-71.0589,12.5,Sandy
+ST002,41.8240,-71.4128,8.3,Rocky
+ST003,42.0654,-70.1773,18.7,Muddy
+ST004,41.7658,-71.2515,15.2,Sandy
+ST005,42.2352,-70.9295,22.1,Rocky

@@ -1,0 +1,6 @@
+Species_ID,Common_Name,Length_cm,Weight_g,Habitat,Trophic_Level
+SP001,Atlantic Cod,65,2800,Benthic,4.2
+SP002,Atlantic Herring,28,180,Pelagic,3.1
+SP003,European Plaice,42,950,Benthic,3.5
+SP004,Mackerel,35,450,Pelagic,3.8
+SP005,Blue Whiting,32,280,Pelagic,3.4
