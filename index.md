@@ -579,3 +579,5 @@ Date,Station,Species,Count,Avg_Length_cm,Avg_Weight_g,Temperature_C,Salinity_ppt
 5. Practice with real research datasets from your field
 
 Happy coding, and welcome to Python for marine science!
+
+[Solutions](corect/solutions.md)
